@@ -54,11 +54,12 @@
         "Desarrollo e implementación del Datecode Monitoring System."
       ],
       "skills": [
-        "MS SQL Server",
+        "SQL Server",
+        "Jquery",
         "MySQL",
         "ASP.NET Core",
         "Symfony",
-        "API Development"
+        "Python"
       ]
     },
     {
@@ -85,10 +86,10 @@
         "Implementación de autenticación y autorización segura."
       ],
       "skills": [
+        "Node",
         "Prisma",
         "Next.js",
-        "Database Administration",
-        "Authentication"
+        "MySQL"
       ]
     },
     {
@@ -113,8 +114,11 @@
         "Diseño y desarrollo de sistemas web para la administración de los alumnos de intercambio."
       ],
       "skills": [
-        "Web Development",
-        "Fullstack"
+        "Laravel",
+        "MySQL",
+        "Alpine",
+        "Tailwind",
+        "Livewire"
       ]
     },
     {
@@ -148,6 +152,7 @@
         "Oracle Integration Cloud",
         "Oracle Fusion Cloud ERP",
         "Oracle Visual Builder",
+        "MySQL",
         "PLSQL"
       ]
     },
