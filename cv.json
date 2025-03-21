@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "David Enrique Reséndiz Nuñez",
+    "label": "Ingeniero de Software | Desarrollador Backend & Full Stack",
+    "image": "/me_avatar.jpg",
+    "email": "k.ventus250@gmail.com",
+    "phone": "461-143-0516",
+    "url": "https://github.com/underwords13",
+    "summary": "Ingeniero de Software especializado en desarrollo backend y full stack, con más de 2 años de experiencia en la creación de sistemas, integración de APIs y administración de bases de datos. Trabajo con tecnologías modernas para construir soluciones eficientes y optimizadas.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "38500",
+      "city": "Apaseo el alto",
+      "countryCode": "MX",
+      "region": "Guanajuato"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "underwords13",
+        "url": "https://github.com/underwords13"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "enrique-resendiz-571831151",
+        "url": "https://www.linkedin.com/in/enrique-resendiz-571831151/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HARMAN DE MEXICO S. DE R.L. DE C.V.",
+      "position": "Fullstack Developer Intern",
+      "location_type": "Presencial",
+      "location": "Querétaro, México",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": "2025-02-01",
+      "summary": "Responsable del desarrollo y mantenimiento de soluciones internas para el área de recibos electrónicos.",
+      "responsibilities": [
+        "Desarrollar y mantener sistemas internos para la gestión de recibos electrónicos.",
+        "Administrar y optimizar bases de datos MS SQL Server y MySQL.",
+        "Implementar nuevas funcionalidades en ASP.NET Core y Symfony.",
+        "Asegurar la calidad del código y el rendimiento de las APIs."
+      ],
+      "achievements": [
+        "Implementación exitosa del Datecode Monitoring System, mejorando el control de códigos de fecha.",
+        "Optimización de procesos internos mediante la automatización de flujos de trabajo con APIs."
+      ],
+      "highlights": [
+        "Administración de bases de datos MS SQL Server y MySQL para el desarrollo de soluciones en el área de recibos electrónicos.",
+        "Creación y mantenimiento de APIs y sistemas con ASP.NET Core y Symfony.",
+        "Desarrollo e implementación del Datecode Monitoring System."
+      ],
+      "skills": [
+        "MS SQL Server",
+        "MySQL",
+        "ASP.NET Core",
+        "Symfony",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Centro de desarrollo - Facultad de Informática UAQ",
+      "position": "Fullstack Developer y DB Admin",
+      "location_type": "Presencial",
+      "location": "Querétaro, México",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Encargado del desarrollo de un sistema administrativo de deportes y de la optimización de bases de datos.",
+      "responsibilities": [
+        "Desarrollar un sistema administrativo para la gestión de actividades deportivas.",
+        "Administrar bases de datos y optimizar consultas en Prisma y Next.js.",
+        "Garantizar la seguridad y el correcto funcionamiento de los accesos mediante autenticación y autorización."
+      ],
+      "achievements": [
+        "Desarrollo completo de una plataforma para la gestión de deportes en la facultad de informática de la UAQ.",
+        "Reducción del tiempo de consulta en base de datos mediante optimización de índices."
+      ],
+      "highlights": [
+        "Administración y optimización de bases de datos.",
+        "Desarrollo de sistema administrativo de deportes con Prisma y Next.js.",
+        "Implementación de autenticación y autorización segura."
+      ],
+      "skills": [
+        "Prisma",
+        "Next.js",
+        "Database Administration",
+        "Authentication"
+      ]
+    },
+    {
+      "name": "Facultad de Medicina UAQ",
+      "position": "Fullstack Developer",
+      "location_type": "Remoto",
+      "location": "Querétaro, México",
+      "url": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-09-01",
+      "summary": "Responsable del diseño y desarrollo de sistemas web para la administración de alumnos de intercambio.",
+      "responsibilities": [
+        "Diseñar y desarrollar una plataforma web para la gestión de alumnos de intercambio.",
+        "Optimizar la experiencia de usuario y la interfaz de administración.",
+        "Asegurar la integridad y consistencia de los datos almacenados."
+      ],
+      "achievements": [
+        "Automatización del proceso de registro de alumnos, reduciendo errores administrativos.",
+        "Integración de autenticación segura para proteger la información de los estudiantes."
+      ],
+      "highlights": [
+        "Diseño y desarrollo de sistemas web para la administración de los alumnos de intercambio."
+      ],
+      "skills": [
+        "Web Development",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Grupo TI México",
+      "position": "Consultor Técnico Oracle Jr",
+      "location_type": "Remoto",
+      "location": "México",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Desarrollo y análisis de soluciones web e integraciones con plataformas Oracle.",
+      "responsibilities": [
+        "Desarrollar y mantener sistemas web con Laravel.",
+        "Crear integraciones con Oracle Integration Cloud (OIC) y Oracle Fusion Cloud ERP (OFC).",
+        "Diseñar y programar interfaces en Oracle Visual Builder (OVB).",
+        "Refactorizar y optimizar consultas en bases de datos Oracle."
+      ],
+      "achievements": [
+        "Automatización de procesos contables en Oxxo, Iconn y Farmacias del Ahorro.",
+        "Optimización de consultas SQL en Oracle 11G, mejorando tiempos de ejecución en un 30%."
+      ],
+      "highlights": [
+        "Diseño y desarrollo de sistemas web con Laravel.",
+        "Desarrollo de integraciones con Oracle Integration Cloud (OIC) y Oracle Fusion Cloud ERP (OFC).",
+        "Diseño y desarrollo de páginas web en Oracle Visual Builder (OVB) y OFC.",
+        "Análisis y levantamiento de requerimientos en proyectos nuevos y de migración en empresas como Oxxo, Iconn, Farmacias del Ahorro.",
+        "Análisis y refactorización de consultas en Oracle 11G, Oracle ADW y PLSQL."
+      ],
+      "skills": [
+        "Laravel",
+        "Oracle Integration Cloud",
+        "Oracle Fusion Cloud ERP",
+        "Oracle Visual Builder",
+        "PLSQL"
+      ]
+    },
+    {
+      "name": "Grupo TI México",
+      "position": "Consultor Técnico Oracle Intern",
+      "location_type": "Remoto",
+      "location": "México",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2023-01-01",
+      "summary": "Soporte en el desarrollo de integraciones y páginas web utilizando tecnologías Oracle.",
+      "responsibilities": [
+        "Colaborar en el desarrollo de integraciones con OIC y OFC.",
+        "Crear interfaces web en Oracle Visual Builder (OVB)."
+      ],
+      "achievements": [
+        "Desarrollo exitoso de integraciones con OIC, reduciendo tiempos de procesamiento de datos.",
+        "Automatización de procesos en Oracle Fusion Cloud ERP, mejorando eficiencia operativa."
+      ],
+      "highlights": [
+        "Desarrollo de integraciones con Oracle Integration Cloud (OIC) y Oracle Fusion Cloud ERP (OFC).",
+        "Diseño y desarrollo de páginas web en Oracle Visual Builder (OVB) y OFC."
+      ],
+      "skills": [
+        "Oracle Integration Cloud",
+        "Oracle Fusion Cloud ERP",
+        "Oracle Visual Builder"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Facultad de informática - Universidad Autónoma de Querétaro (UAQ)",
+      "url": "https://www.uaq.mx/informatica/educon.html",
+      "area": "Diplomado en Oracle",
+      "studyType": "Diplomado",
+      "startDate": "2024-08-01",
+      "endDate": "2025-02-01",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Facultad de informática -Universidad Autónoma de Querétaro (UAQ)",
+      "url": "https://www.uaq.mx/informatica/sof.html",
+      "area": "Ingeniería de Software",
+      "studyType": "Licenciatura",
+      "startDate": "2019-01-01",
+      "endDate": "2024-12-01",
+      "score": "9",
+      "courses": [
+        "Desarrollo de Software",
+        "Bases de Datos",
+        "Ingeniería de Requerimientos"
+      ]
+    },
+    {
+      "institution": "Centro de Estudios Técnologicos Industrial y de Servicio No. 150",
+      "url": "https://cetis150.com/",
+      "area": "Técnico en programación",
+      "studyType": "Técnicatura",
+      "startDate": "2016-06-01",
+      "endDate": "2019-06-01",
+      "score": "N/A",
+      "courses": [
+        "Programación",
+        "Bases de Datos"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Educate Introduction to Generative AI",
+      "date": "2025-03-19",
+      "issuer": "Amazon",
+      "url": "https://www.credly.com/badges/722414c2-2ed8-4a9a-bfd8-eb5ab61d6a99/linked_in_profile"
+    },
+    {
+      "name": "webMethods Integration SaaS Basic",
+      "date": "2023-11-09",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/earner/earned/badge/f73eecb4-c413-4721-866b-3edfcfd2827a"
+    },
+    {
+      "name": "Azure AZ-900",
+      "date": "2021-12-22",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/earner/earned/badge/a6240bba-5011-4087-ba9b-2730970fe2e5"
+    },
+    {
+      "name": "Database Programming with PL/SQL",
+      "date": "2021-06-08",
+      "issuer": "Oracle",
+      "url": "https://academy.oracle.com/en/solutions-curriculum-database.html#db2-tab"
+    },
+    {
+      "name": "Database Programming with SQL",
+      "date": "2020-11-28",
+      "issuer": "Oracle",
+      "url": "https://academy.oracle.com/en/solutions-curriculum-database.html#db3b-tab"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": [
+        "Node.js",
+        "ASP.NET Core",
+        "Symfony",
+        "Laravel",
+        "Golang"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "",
+      "keywords": [
+        "Vue.js",
+        "Nuxt.js",
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Mid",
+      "keywords": [
+        "MS SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "Oracle 11G"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B1 - B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Desarrollo de Software",
+      "keywords": [
+        "Arquitectura de software",
+        "Automatización",
+        "Optimización de sistemas"
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "keywords": [
+        "Modelado de datos",
+        "Optimización de consultas",
+        "Administración"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Changarrito FIF",
+      "isActive": false,
+      "description": "Ecommerce para promocionar productos y servicios ofertados por los alumnos de la Facultad de Informática UAQ.",
+      "highlights": [
+        "Desarrollo de plataforma de comercio electrónico.",
+        "Implementación de autenticación con Next.js y Prisma.",
+        "Diseño de base de datos con MySQL.",
+        "Interfaz responsiva con Tailwind CSS."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Datecode Monitoring System",
+      "isActive": false,
+      "description": "Sistema para el monitoreo y gestión de códigos de fecha en líneas de producción.",
+      "highlights": [
+        "Automatización del seguimiento de códigos de fecha.",
+        "Integración con bases de datos MS SQL Server.",
+        "Interfaz optimizada para usuarios de producción."
+      ],
+      "url": "",
+      "github": ""
+    }
+  ]
+}
